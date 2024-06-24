@@ -1,0 +1,17 @@
+{
+    "id": 105626421,
+    "name": "headset dent",
+    "author": "Frostytoes",
+    "creators": ["Frostytoes"],
+    "verifier": "Frostytoes",
+    "verification": "https://youtu.be/77LeLp2x6Zo",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "potato",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
