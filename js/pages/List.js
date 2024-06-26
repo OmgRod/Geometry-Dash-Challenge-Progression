@@ -98,7 +98,6 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
                     <p>
                         To submit a record or level to the list, join the Discord!
                     </p>
