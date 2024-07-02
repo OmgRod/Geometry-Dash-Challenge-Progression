@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "DeceptiveGD",
+            "video": "Unavailable",
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }
