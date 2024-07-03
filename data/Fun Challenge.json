@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "SH41N3",
+            "video": "https://medal.tv/games/geometry-dash/clips/ibwXsLxGpAanOlLvO/d13374Wm7gx0?invite=cr-MSxUODgsMjA0NjczODMyLA",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }
