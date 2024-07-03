@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "NatNat",
+            "video": "https://youtu.be/utcYswGjVEI",
+            "hz": 288,
+            "percent": 100
+        }
+        {
+            "user": "KrisYa",
+            "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }
