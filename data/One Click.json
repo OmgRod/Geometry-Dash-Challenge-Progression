@@ -8,5 +8,23 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "SH41N3",
+            "video": "https://medal.tv/games/geometry-dash/clips/ibLFVL9XZDXXbroda/d1337g6ORmlB?invite=cr-MSxIWVAsMjA0NjczODMyLA",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "vinc_burger",
+            "video": "https://discord.com/channels/1242962829573619842/1242983166478782484/1257800851842535464",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Gp0",
+            "video": "https://discord.com/channels/1242962829573619842/1242983166478782484/1257797567329079366",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
