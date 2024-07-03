@@ -1,6 +1,6 @@
 {
     "id": 96054966,
-    "name": "Shalvantise Ilse",
+    "name": "Shalvantis Isle",
     "author": "KrisYa",
     "creators": ["KrisYa"],
     "verifier": "KrisYa",
@@ -13,6 +13,12 @@
             "video": "https://www.youtube.com/watch?v=Iv4wSxvPmAg",
             "hz": 280,
             "percent": 100
+        }
+        {
+            "user": "SMango23",
+            "video": "https://www.youtube.com/watch?v=9juKRsbTScU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
