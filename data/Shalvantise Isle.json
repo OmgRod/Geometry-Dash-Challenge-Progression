@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "NatNat",
+            "video": "https://www.youtube.com/watch?v=Iv4wSxvPmAg",
+            "hz": 280,
+            "percent": 100
+        }
     ]
 }
