@@ -25,6 +25,11 @@
             "video": "https://discord.com/channels/1242962829573619842/1242983166478782484/1257797567329079366",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
+            "percent": 100
         }
     ]
 }
