@@ -1,6 +1,6 @@
 {
     "id": 103779272,
-    "name": "Hi Spidewood",
+    "name": "Hi Spiderwood",
     "author": "LeapoMeapo",
     "creators": ["LeapoMeapo"],
     "verifier": "LeapoMeapo",
@@ -11,6 +11,11 @@
         {
             "user": "potato",
             "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 288,
             "percent": 100
         }
     ]
