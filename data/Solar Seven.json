@@ -17,6 +17,12 @@
             "user": "potato",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
