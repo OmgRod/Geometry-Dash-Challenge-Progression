@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "KrisYa",
+            "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }
