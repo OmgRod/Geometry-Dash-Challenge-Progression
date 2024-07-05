@@ -18,6 +18,12 @@
             "user": "SH41N3",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=K2js9pM7pOA",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
