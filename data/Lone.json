@@ -4,13 +4,13 @@
     "author": "iamnotsusguy",
     "creators": ["iamnotsusguy"],
     "verifier": "iamnotsusguy",
-    "verification": "https://youtu.be/76ug4RGxU28",
+    "verification": "https://www.youtube.com/watch?v=76ug4RGxU28",
     "percentToQualify": 100,
     "password": "free",
     "records": [
         {
             "user": "KrisYa",
-            "video": "https://www.youtube.com/watch?v=76ug4RGxU28",
+            "video": "https://www.youtube.com/watch?v=XPgaeERTiv8",
             "hz": 360,
             "percent": 100
         }
