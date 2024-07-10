@@ -135,6 +135,8 @@ export default {
 
                         If you are on mobile and cant show clicks, then you must enable touch indicator.
                     </p>
+                    <p>
+                        Join the Discord (in the top right corner) to submit a level or record!
                 </div>
             </div>
         </main>
