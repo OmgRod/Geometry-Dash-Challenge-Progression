@@ -107,17 +107,17 @@ export default {
                     <p>
                         Must be beatable and verified. 
 
-                        Doesn't need deco but it needs structuring
+                        Doesn't need deco but it needs structuring.
 
-                        Any secret ways found in levels will need to be fixed 
+                        Any secret ways found in levels will need to be fixed .
 
-                        Must be under 30 seconds
+                        Must be under 30 seconds.
 
-                        Needs to have visible effort put into it. Spamming low effort challenges will not be allowed
+                        Needs to have visible effort put into it. Spamming low effort challenges will not be allowed.
 
                         All levels must be made for the list by members of the GDCP community. 
 
-                        if you disagree with mods feel free to state your opinion. Don't harass them
+                        if you disagree with mods feel free to state your opinion. Don't harass them.
                     </p>
                     <p>
 
@@ -125,15 +125,15 @@ export default {
 
                     </p>
                     <p>
-                        Your completion must have cheat indicator if you have mods
+                        Your completion must have cheat indicator if you have mods.
 
-                        The endscreen and the attempt before completion attempt must be shown
+                        The endscreen and the attempt before completion attempt must be shown.
 
-                        Your CPS must be shown if you have mods
+                        Your CPS must be shown if you have mods.
 
-                        If you have no mods your clicks need to be heard and you need to send the raw footage
+                        If you have no mods your clicks need to be heard and you need to send the raw footage.
 
-                        If you are on mobile and cant show clicks, then you must enable touch indicator
+                        If you are on mobile and cant show clicks, then you must enable touch indicator.
                     </p>
                 </div>
             </div>
