@@ -98,10 +98,12 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    </p>
                     <p>
 
                         Level Submit Rules
 
+                    </p>
                     <p>
                         Must be beatable and verified. 
 
@@ -114,12 +116,14 @@ export default {
                         Needs to have visible effort put into it. Spamming low effort challenges will not be allowed
 
                         All levels must be made for the list by members of the GDCP community. 
-                        
+
                         if you disagree with mods feel free to state your opinion. Don't harass them
+                    </p>
                     <p>
 
                         Record Submit Rules
 
+                    </p>
                     <p>
                         Your completion must have cheat indicator if you have mods
 
