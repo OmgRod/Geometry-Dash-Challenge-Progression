@@ -42,6 +42,11 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
