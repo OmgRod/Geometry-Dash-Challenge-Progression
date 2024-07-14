@@ -13,6 +13,11 @@
             "video": "https://www.youtube.com/watch?v=XPgaeERTiv8",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "naqte",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
