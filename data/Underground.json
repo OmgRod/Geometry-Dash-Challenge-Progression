@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "name": "Voiddle",
+            "hz": 144,
+            "percent": 100
+        }
     ]
 }
