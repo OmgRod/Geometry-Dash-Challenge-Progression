@@ -23,6 +23,12 @@
             "user": "naqte",
             "hz": 144,
             "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
