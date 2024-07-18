@@ -23,6 +23,12 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "KrisYa",
+            "video": "https://www.youtube.com/watch?v=DOqMblbvE_g",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
