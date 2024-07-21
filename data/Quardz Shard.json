@@ -28,6 +28,12 @@
             "user": "iamnotsusguy",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "video": "",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
