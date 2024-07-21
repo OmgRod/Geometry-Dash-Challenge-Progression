@@ -63,6 +63,12 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        ,
+        {
+            "user": "SoulsShards",
+            "hz": 240,
+            "percent": 100
         }
     ]
     
