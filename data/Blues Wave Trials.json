@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "Voiddle",
+            "video": "",
+            "hz": 144,
+            "percent": 100
+        }
     ]
 }
