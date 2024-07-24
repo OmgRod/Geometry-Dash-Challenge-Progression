@@ -24,6 +24,11 @@
             "video": "https://youtu.be/CdwSvZ15DQg?si=71IA0CVsaECeoO36",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
