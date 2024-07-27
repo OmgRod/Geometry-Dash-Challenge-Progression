@@ -50,6 +50,11 @@
             "user": "Allu",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Isnt_Adam",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
