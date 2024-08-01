@@ -1,11 +1,13 @@
 import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js';
+import { getYoutubeIdFromUrl, localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
+import LevelAuthors from '../components/List/LevelAuthors.js';
 
 export default {
     components: {
         Spinner,
+        LevelAuthors,
     },
     data: () => ({
         leaderboard: [],
@@ -28,64 +30,83 @@ export default {
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard">
                             <td class="rank">
-                                <p class="type-label-lg">#{{ i + 1 }}</p>
-                            </td>
-                            <td class="total">
-                                <p class="type-label-lg">{{ localize(ientry.total) }}</p>
+                            <p v-if="i + 1 === 1" class="type-label-lg" class="top1">#{{ i + 1 }}</p>
+                                <p v-else-if="i + 1 === 2" class="type-label-lg" class="top2">#{{ i + 1 }}</p>
+                                <p v-else-if="i + 1 === 3" class="type-label-lg" class="top3">#{{ i + 1 }}</p>
+                                <p v-else-if="ientry.total > 0" class="type-label-lg">#{{ i + 1 }}</p>
+                                <p v-else class="legacy" class="type-label-lg">#{{ i + 1 }}</p>
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
-                                    <span class="type-label-lg">{{ ientry.user }}</span>
+                                <span class="type-label-lg">{{ ientry.user }}</span>
                                 </button>
+                            </td>
+                            <td class="score">
+                            <p v-if="ientry.total > 0" class="type-label-lg">{{ localize(ientry.total) }}</p>
+                            <p v-else class="legacy" class="type-label-lg">{{ localize(ientry.total) }}</p>
                             </td>
                         </tr>
                     </table>
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
-                        <h3>{{ entry.total }}</h3>
-                        <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
+                        <h1>{{ entry.user }}</h1><p>#{{ selected + 1 }}</p>
+                        <h3 v-if="entry.total > 0"><b>{{entry.total}}</b></h3>
+                        <p>Pack Bonus: {{ entry.packBonus }}</p>
+                        <div class="packs" v-if="entry.packs.length > 0">
+                            <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour}">
+                                {{pack.name}}
+                            </div>
+                        </div>
+                        <br>
+                        <h2 v-if="entry.verified.length > 0">Challenges verified: ({{ entry.verified.length }})</h2>
                         <table class="table">
-                            <tr v-for="score in entry.verified">
-                                <td class="rank">
-                                    <p>#{{ score.rank }}</p>
-                                </td>
-                                <td class="level">
-                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
-                                </td>
-                                <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
-                                </td>
-                            </tr>
+                        <tr v-for="score in entry.verified">
+                        <td class="rank">
+                        <p v-if="score.rank <= 25">#{{ score.rank }}</p>
+                        <p v-else class="extended" :style="{ color: score.rank > 50 ? 'var(--color-legacy)' : legacy }">#{{ score.rank }}</p>
+                        </td>
+                        <td class="level">
+                            <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
+                        </td>
+                        <td class="score">
+                        <p v-if="score.score > 0" class="type-label-lg">+{{ localize(score.score) }}</p>
+                        <p v-else class="legacy" class="type-label-lg">+{{ localize(score.score) }}</p>
+                        </td>
+                    </tr>
                         </table>
-                        <h2 v-if="entry.completed.length > 0">Completed ({{ entry.completed.length }})</h2>
+                        <h2 v-if="entry.completed.length > 0">Challenges completed: ({{ entry.completed.length }})</h2>
                         <table class="table">
                             <tr v-for="score in entry.completed">
                                 <td class="rank">
-                                    <p>#{{ score.rank }}</p>
+                                <p v-if="score.rank <= 25">#{{ score.rank }}</p>
+                                <p v-else class="extended" :style="{ color: score.rank > 50 ? 'var(--color-legacy)' : legacy }">#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
+                                <p v-if="score.score > 0" class="type-label-lg">+{{ localize(score.score) }}</p>
+                                <p v-else class="legacy" class="type-label-lg">+{{ localize(score.score) }}</p>
                                 </td>
                             </tr>
                         </table>
-                        <h2 v-if="entry.progressed.length > 0">Progressed ({{entry.progressed.length}})</h2>
+                        <h2 v-if="entry.progressed.length > 0">Progress on: ({{ entry.progressed.length }})</h2>
                         <table class="table">
                             <tr v-for="score in entry.progressed">
                                 <td class="rank">
-                                    <p>#{{ score.rank }}</p>
+                                <p v-if="score.rank <= 75">#{{ score.rank }}</p>
+                                <p v-else class="extended" :style="{ color: score.rank > 150 ? 'var(--color-legacy)' : legacy }">#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.percent }}% {{ score.level }}</a>
+                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }} ({{ score.percent }}%)</a>
                                 </td>
                                 <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
+                                <p v-if="score.score > 0" class="type-label-lg">+{{ localize(score.score) }}</p>
+                                <p v-else class="legacy" class="type-label-lg">+{{ localize(score.score) }}</p>
                                 </td>
                             </tr>
+                        </table>
                         </table>
                     </div>
                 </div>
@@ -106,5 +127,6 @@ export default {
     },
     methods: {
         localize,
+        getYoutubeIdFromUrl,
     },
 };
