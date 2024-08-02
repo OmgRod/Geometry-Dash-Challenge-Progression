@@ -19,6 +19,11 @@
             "video": "https://youtu.be/Fmf5_PWnJLI",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -13,6 +13,11 @@
             "video": "",
             "hz": 288,
             "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

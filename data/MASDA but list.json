@@ -25,6 +25,11 @@
             "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -13,6 +13,11 @@
             "video": "https://youtu.be/bEWt0owD7Bg?si=BXhm8hyWmgOXrnSm",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "whippd",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
