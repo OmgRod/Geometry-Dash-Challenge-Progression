@@ -7,6 +7,10 @@
     "verification": "https://youtu.be/-pD7jf9QPp4?si=6ed_z90x6h_FA8y7",
     "percentToQualify": 100,
     "password": "free",
-    "records": [
+    "records": [ {
+        "user": "Mylam999",
+        "hz": 60,
+        "percent": 100
+    }
     ]
 }

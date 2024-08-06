@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/ylRu8uY8AcU",
     "percentToQualify": 100,
     "password": "free",
-    "records": [
+    "records": [ 
+        {
+            "user": "Mylam999",
+            "hz": 60,
+            "percent": 100,
+        }
         {
             "user": "SadCraft0o",
             "hz": 60,
@@ -34,6 +39,7 @@
             "hz": 240,
             "percent": 100
         },
+      
         {
             "user": "Allu",
             "hz": 60,
