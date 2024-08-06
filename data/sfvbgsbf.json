@@ -7,7 +7,11 @@
     "verification": "https://youtu.be/xSMAyQHePFI",
     "percentToQualify": 100,
     "password": "free",
-    "records": [
+    "records": [ {
+        "user": "whippd",
+        "hz": 240,
+        "percent": 100
+    },
         {
             "user": "KrisYa",
             "video": "https://www.youtube.com/watch?v=PSWT2q9Wn1Q",

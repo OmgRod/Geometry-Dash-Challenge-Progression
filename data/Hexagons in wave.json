@@ -7,6 +7,10 @@
     "verification": "https://www.youtube.com/watch?v=fO18u7zbFcA",
     "percentToQualify": 100,
     "password": "free",
-    "records": [
+    "records": [    {
+        "user": "whippd",
+        "hz": 240,
+        "percent": 100
+    }
     ]
 }
