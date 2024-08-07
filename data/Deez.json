@@ -9,6 +9,12 @@
     "password": "free",
     "records": [
         {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
             "user": "SH41N3",
             "video": "https://medal.tv/games/geometry-dash/clips/ibLUyX9y3HdRYwyGx/UeH71imfGRyq?invite=cr-MSxXck4sMjA0NjczODMyLA",
             "hz": 360,

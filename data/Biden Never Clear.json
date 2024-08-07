@@ -9,6 +9,12 @@
     "password": "free",
     "records": [
         {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
             "user": "allu",
             "hz": 60,
             "percent": 100

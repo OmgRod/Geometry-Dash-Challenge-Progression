@@ -7,7 +7,14 @@
     "verification": "https://youtu.be/I0y3VhKwkFg",
     "percentToQualify": 100,
     "password": "free",
-    "records": [ {
+    "records": [ 
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
         "user": "whippd",
         "hz": 240,
         "percent": 100

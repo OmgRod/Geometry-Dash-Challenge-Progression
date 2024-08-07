@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
             "user": "NatNat",
             "hz": 288,
             "percent": 100
@@ -38,6 +43,10 @@
             "user": "Voiddle",
             "hz": 144,
             "percent": 100
-        }
-    ]
+        },
+     {
+        "user": "lithiumbatteries",
+        "hz": 60,
+        "percent": 100
+    }]
 }
