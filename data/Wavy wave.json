@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "Isnt_Adam",
+            "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }

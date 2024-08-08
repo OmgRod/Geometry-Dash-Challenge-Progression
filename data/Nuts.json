@@ -9,6 +9,17 @@
     "password": "free",
     "records": [
         {
+            "user": "ballerman93",
+            "hz": 165,
+            "percent": 100
+        },
+        {
+            "user": "Isnt_Adam",
+            "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
+            "hz": 360,
+            "percent": 100
+        },
+        {
             "user": "NatNat",
             "hz": 288,
             "percent": 100

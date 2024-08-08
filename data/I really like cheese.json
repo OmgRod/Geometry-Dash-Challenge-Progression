@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/I0y3VhKwkFg",
     "percentToQualify": 100,
     "password": "free",
-    "records": [ 
+    "records": [
+        {
+            "user": "ballerman93",
+            "hz": 165,
+            "percent": 100
+        }, 
         {
             "user": "Turbometric",
             "hz": 60,

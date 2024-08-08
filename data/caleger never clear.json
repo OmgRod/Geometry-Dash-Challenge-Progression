@@ -8,7 +8,17 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
-
+        {
+            "user": "ballerman93",
+            "hz": 165,
+            "percent": 100
+        },
+        {
+            "user": "Isnt_Adam",
+            "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
+            "hz": 360,
+            "percent": 100
+        },
         {
             "user": "SH41N3",
             "video": "https://medal.tv/games/geometry-dash/clips/ibLRIXRA4biHqBRPJ/9rqmkVzwt4Nt?invite=cr-MSxnbXAsMjA0NjczODMyLA",
