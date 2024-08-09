@@ -13,6 +13,11 @@
             "video": "https://www.youtube.com/watch?v=BbUdcAou7bs",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
