@@ -38,6 +38,11 @@
             "user": "Allu",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
