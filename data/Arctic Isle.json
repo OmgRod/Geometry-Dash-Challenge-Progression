@@ -18,6 +18,12 @@
             "user": "whippd",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "smango23",
+            "video": "https://www.youtube.com/watch?v=bn2KljGri5A&start=107",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
