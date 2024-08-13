@@ -33,6 +33,11 @@
             "user": "Voiddle",
             "hz": 144,
             "percent": 100
+        },
+        {
+            "user": "shakupencheesegd",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
