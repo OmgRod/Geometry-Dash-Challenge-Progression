@@ -8,6 +8,20 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
-        
+        {
+            "user": "allu",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Ballerman93",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Mylam999",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
