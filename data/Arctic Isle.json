@@ -24,6 +24,11 @@
             "video": "https://www.youtube.com/watch?v=bn2KljGri5A&start=107",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }

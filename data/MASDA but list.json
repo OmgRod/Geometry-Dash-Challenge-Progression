@@ -30,6 +30,11 @@
             "user": "whippd",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Farlayy",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
