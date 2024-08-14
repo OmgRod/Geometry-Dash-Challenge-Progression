@@ -27,7 +27,8 @@
             "user": "Turbometric",
             "hz": 60,
             "percent": 100,
-            "mobile": true
+            "mobile": true,
+            "video": "https://www.youtube.com/watch?v=K15mDvrEcVc"
         }
     ]
 }       
