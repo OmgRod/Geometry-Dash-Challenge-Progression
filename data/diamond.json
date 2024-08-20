@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+        {
+            "user": "NatNat"
+            "hz": 360
+            "percent": 100
+        }
 
     ]
 }
