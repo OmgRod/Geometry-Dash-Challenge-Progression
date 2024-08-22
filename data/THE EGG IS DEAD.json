@@ -8,12 +8,7 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
-        {
-            "user": "Miksutic",
-            "video": "https://youtu.be/IRayDnXD0A0",
-            "hz": 360,
-            "percent": 100
-        },
+
     ]
         
 }
