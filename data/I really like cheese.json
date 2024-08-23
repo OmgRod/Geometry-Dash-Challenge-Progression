@@ -97,6 +97,12 @@
             "user": "Mylam999",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
