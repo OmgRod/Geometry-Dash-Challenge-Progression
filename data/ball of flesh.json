@@ -19,6 +19,12 @@
             "percent": 100,
             "mobile": true,
             "video": "https://www.youtube.com/watch?v=jA_sjX9gUzw"
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
