@@ -18,6 +18,12 @@
             "user": "Farlayy",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "video": "https://youtu.be/qUIbJqa0IDg",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
