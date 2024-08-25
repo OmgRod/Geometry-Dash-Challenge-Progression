@@ -66,6 +66,11 @@
             "video": "https://youtu.be/qUIbJqa0IDg",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Mako",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
