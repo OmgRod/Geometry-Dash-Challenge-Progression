@@ -42,6 +42,11 @@
             "percent": 100
         },
         {
+            "user": "slashy",
+            "hz": 60,
+            "percent": 100
+        },
+        {
             "user": "Isnt_Adam",
             "hz": 60,
             "percent": 100,
