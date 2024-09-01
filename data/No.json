@@ -71,6 +71,12 @@
             "user": "Mako",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
         }
     ]
 }
