@@ -65,6 +65,11 @@
             "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
