@@ -66,6 +66,11 @@
             "user": "Monkey",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "Frostytoes",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
