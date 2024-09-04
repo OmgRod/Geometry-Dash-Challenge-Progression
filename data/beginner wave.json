@@ -30,6 +30,11 @@
             "video": "https://www.youtube.com/watch?v=7DgDJY03TJ8",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "stinkypinky",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
