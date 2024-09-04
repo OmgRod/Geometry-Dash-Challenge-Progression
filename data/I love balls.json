@@ -77,6 +77,11 @@
             "video": "https://youtu.be/qUIbJqa0IDg",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Monkey",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
