@@ -13,6 +13,12 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "monkey",
+            "hz": 240,
+            "percent": 100,
+            "mobile": true
         }
     ]
 }

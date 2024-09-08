@@ -39,6 +39,12 @@
             "user": "Frostytoes",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "monkey",
+            "hz": 240,
+            "percent": 100,
+            "mobile": true
         }
     ]
 }
