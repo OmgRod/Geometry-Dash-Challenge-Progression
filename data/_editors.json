@@ -6,23 +6,42 @@
     },
     {
         "role": "admin",
-        "name": "zonkers"
+        "name": "Runaia"
+
+    },
+    {
+        "role": "admin",
+        "name": "FrostyToes"
+
+    },
+    {
+        "role": "admin",
+        "name": "FrostyToes"
 
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mewo"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "NatNat"
+    },
+    {
+        "role": "helper",
+        "name": "rr3verb"
+    },
+    {
+        "role": "helper",
+        "name": "Allu"
+    },
+    {
+        "role": "helper",
+        "name": "whxxpd"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Deceptive"
     }
     
 ]
