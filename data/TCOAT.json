@@ -78,9 +78,9 @@
         },
         {
             "user": "Spunstep",
-            "hz": "709",
+            "hz": 709,
             "percent": 100,
-            "video": "https://www.youtube.com/watch?v=7b682zbzRgQ&feature=youtu.be",
+            "video": "https://www.youtube.com/watch?v=7b682zbzRgQ&feature=youtu.be"
         }
     ]
 }
