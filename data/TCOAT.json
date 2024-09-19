@@ -75,6 +75,12 @@
             "user": "Frostytoes",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 248-709,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=7b682zbzRgQ&feature=youtu.be",
         }
     ]
 }
