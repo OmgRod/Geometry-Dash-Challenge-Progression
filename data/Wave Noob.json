@@ -40,6 +40,12 @@
             "user": "Monkey",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 709,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=-Ff5OoYHEKs&feature=youtu.be"
         }
     ]
 }
