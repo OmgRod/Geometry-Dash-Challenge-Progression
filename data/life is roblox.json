@@ -50,6 +50,11 @@
             "hz": 240,
             "percent": 100,
             "video": "https://youtu.be/UEV9ZtSUImM"
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
         }
     ]
 }
