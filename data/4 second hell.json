@@ -80,6 +80,11 @@
             "hz": 709,
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=Tdcqs4kZpXg"
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }

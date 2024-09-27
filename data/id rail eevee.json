@@ -40,6 +40,11 @@
             "hz": 360,
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=FoXBq1YKMNs"
+        },
+        {
+            "user": "Turbometric",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
