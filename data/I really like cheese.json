@@ -124,6 +124,16 @@
             "hz": 709,
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=MLl__s46kmU&feature=youtu.be"
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Minotaur256",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }

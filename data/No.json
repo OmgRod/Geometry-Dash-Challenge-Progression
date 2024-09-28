@@ -92,6 +92,11 @@
             "user": "Spunstep",
             "hz": 500,
             "percent": 100
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }

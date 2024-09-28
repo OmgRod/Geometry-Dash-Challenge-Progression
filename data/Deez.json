@@ -93,6 +93,11 @@
             "hz": 709,
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=Op2QKrZQYy8"
+        },
+        {
+            "user": "tyhhkyfv",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
