@@ -22,6 +22,11 @@
             "user": "potato",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Tacojed",
+            "hz": 240,
+            "percent": 100
         }
     ]
 
