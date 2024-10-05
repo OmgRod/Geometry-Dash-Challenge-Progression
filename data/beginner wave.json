@@ -35,6 +35,11 @@
             "user": "stinkypinky",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "whippd",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
