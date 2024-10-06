@@ -28,6 +28,12 @@
             "user": "Spunstep",
             "hz": 500,
             "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
         }
+
     ]
 }

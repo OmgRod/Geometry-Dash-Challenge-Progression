@@ -33,6 +33,11 @@
             "user": "Mako",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
