@@ -18,6 +18,11 @@
             "hz": 240,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }

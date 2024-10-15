@@ -85,6 +85,12 @@
             "hz": 60,
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=CHB-JQD92yw"
+        }, 
+        {
+            "user": "EndGrain",
+            "hz": 144,
+            "percent": 100
         }
+
     ]
 }
