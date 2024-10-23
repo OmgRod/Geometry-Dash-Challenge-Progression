@@ -70,6 +70,12 @@
             "user": "tyhhkyfv",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "mylam's little sister",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
         }
     ]
 }

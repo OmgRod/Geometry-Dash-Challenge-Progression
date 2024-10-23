@@ -112,6 +112,11 @@
             "hz": 240,
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=TDA2S3QixL4&t=7s"
+        },
+        {
+            "user": "ElisAW",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
