@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "free",
     "records": [
+    {
+        "user": "Tacojed",
+        "hz": 240,
+        "percent": 100
+    }
+
     ]
 }       
 

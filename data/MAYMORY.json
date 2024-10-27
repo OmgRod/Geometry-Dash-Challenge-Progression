@@ -76,6 +76,11 @@
             "hz": 60,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "KingClockerYT1",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
