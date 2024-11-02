@@ -12,6 +12,11 @@
             "user": "Farlayy",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 120,
+            "percent": 100
         }
     ]
 }
