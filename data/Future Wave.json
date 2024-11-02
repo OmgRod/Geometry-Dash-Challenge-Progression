@@ -34,22 +34,26 @@
             "user": "Farlayy",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 500,
+            "percent": 100
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "KingClockerYT1",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "kagu",
+            "hz": 120,
+            "percent": 100
         }
-        ,
-    {
-        "user": "Spunstep",
-        "hz": 500,
-        "percent": 100
-    },
-    {
-        "user": "Miksutic",
-        "hz": 360,
-        "percent": 100
-    },
-    {
-        "user": "KingClockerYT1",
-        "hz": 60,
-        "percent": 100
-    }
     ]
 }
