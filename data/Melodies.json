@@ -17,6 +17,11 @@
             "user": "Potato",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Spunstep",
+            "hz": 162,
+            "percent": 100
         }
     ]
 }       
