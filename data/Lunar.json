@@ -23,6 +23,11 @@
             "hz": 240,
             "percent": 100,
             "mobile": true
+        },
+        {
+            "user": "Spunstep",
+            "hz": 162,
+            "percent": 100
         }
     ]
 }       
