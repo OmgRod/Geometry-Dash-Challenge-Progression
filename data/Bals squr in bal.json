@@ -22,9 +22,12 @@
         "user": "Spunstep",
         "hz": 500,
         "percent": 100
+    },
+    {
+        "user": "allu",
+        "hz": 60,
+        "percent": 100
     }
-
         
-            
     ]
 }
