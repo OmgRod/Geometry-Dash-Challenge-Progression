@@ -32,6 +32,11 @@
             "user": "Spunstep",
             "hz": 162,
             "percent": 100
+        },
+        {
+            "user": "Redacted",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
