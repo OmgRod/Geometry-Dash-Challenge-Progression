@@ -81,6 +81,12 @@
             "user": "KingClockerYT1",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "indium300",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
         }
     ]
 }

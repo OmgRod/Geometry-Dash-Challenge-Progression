@@ -1,6 +1,6 @@
 {
     "id": 107627413,
-    "name": "miku matsubari",
+    "name": "miki matsubari",
     "author": "salem",
     "creators": ["salem"],
     "verifier": "salem",
@@ -81,6 +81,11 @@
         {
             "user": "Potato",
             "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 240,
             "percent": 100
         }
     ]

@@ -47,6 +47,16 @@
             "user": "tyhhkyfv",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "KingClockerYT1",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "SlysantYT",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
