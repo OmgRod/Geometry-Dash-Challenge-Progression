@@ -10,10 +10,8 @@
     "records": [
         {
             "user": "whippd",
-            "hz": 240,
+            "hz": 480,
             "percent": 100
         }
-        
-        
     ]
 }
