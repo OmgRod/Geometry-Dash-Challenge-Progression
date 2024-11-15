@@ -60,6 +60,11 @@
             "user": "Spunstep",
             "hz": 500,
             "percent": 100
+        },
+        {
+            "user": "frostytoesgd",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
