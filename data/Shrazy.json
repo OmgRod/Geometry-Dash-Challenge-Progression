@@ -48,6 +48,11 @@
             "user": "Spunstep",
             "hz": 120,
             "percent": 100
+        },
+        {
+            "user": "frostytoes",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
