@@ -118,6 +118,11 @@
             "hz": 709,
             "percent": 100,
             "video": "https://www.youtube.com/watch?v=2uunfYlppIY"
+        },
+        {
+            "user": "EABH",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
