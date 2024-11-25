@@ -35,6 +35,10 @@
         "name": "whippd"
     },
     {
+        "role": "helper",
+        "name": "Tsa"
+    },
+    {
         "role": "dev",
         "name": "Deceptive"
     }
