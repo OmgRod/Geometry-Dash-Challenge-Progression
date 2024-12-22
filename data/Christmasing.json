@@ -3,15 +3,10 @@
     "name": "Christmasing",
     "author": "Turbometric",
     "creators": ["Turbometric"],
-    "verifier": "Turbometric",
-    "verification": "https://youtu.be/JjUjumzhbO4",
+    "verifier": "NatNat",
+    "verification": "https://youtu.be/Nhsi6lQVwLE",
     "percentToQualify": 100,
     "password": "free",
     "records": [
-        {
-            "user": "NatNat",
-            "hz": 360,
-            "percent": 100
-        }
     ]
 }
