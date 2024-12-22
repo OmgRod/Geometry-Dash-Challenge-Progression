@@ -17,6 +17,11 @@
             "user": "mewo",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
