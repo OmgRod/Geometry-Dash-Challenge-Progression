@@ -15,28 +15,28 @@
 
     },
     {
-        "role": "helper",
+        "role": "mod",
         "name": "Mewo"
     },
     {
-        "role": "helper",
+        "role": "mod",
         "name": "NatNat"
     },
     {
-        "role": "helper",
+        "role": "mod",
         "name": "rr3verb"
     },
     {
-        "role": "helper",
+        "role": "mod",
         "name": "Allu"
     },
     {
-        "role": "helper",
-        "name": "whippd"
+        "role": "mod",
+        "name": "Tsa"
     },
     {
         "role": "helper",
-        "name": "Tsa"
+        "name": "DragonDude"
     },
     {
         "role": "dev",
