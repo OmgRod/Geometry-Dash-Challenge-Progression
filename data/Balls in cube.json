@@ -29,6 +29,11 @@
         "hz": 240,
         "percent": 100,
         "video": "https://www.youtube.com/watch?v=6-nc9TSzLr4"
+    },
+    {
+        "user": "mewo",
+        "hz": 60,
+        "percent": 100
     }
            
     ]
