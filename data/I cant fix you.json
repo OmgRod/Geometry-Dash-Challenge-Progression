@@ -13,6 +13,11 @@
             "hz": 240,
             "percent": 100,
             "video": "https://youtu.be/QDjxILQxY-0"
+        },
+        {
+            "user": "Miksutic",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }       
