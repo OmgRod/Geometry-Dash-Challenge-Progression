@@ -17,6 +17,11 @@
             "user": "whippd",
             "hz": 480,
             "percent": 100
+        },
+        {
+            "user": "KrisYa",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
