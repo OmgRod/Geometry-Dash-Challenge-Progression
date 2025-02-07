@@ -96,6 +96,11 @@
         "user": "stockdown",
         "hz": 60,
         "percent": 100
+        },
+        {
+            "user": "deacnome",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
