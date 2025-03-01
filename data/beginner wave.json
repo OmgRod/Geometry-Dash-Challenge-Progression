@@ -45,6 +45,11 @@
             "user": "Potato",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "VileBunny",
+            "hz": 1000,
+            "percent": 100
         }
     ]
 }
