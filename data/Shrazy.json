@@ -53,6 +53,11 @@
             "user": "frostytoes",
             "hz": 144,
             "percent": 100
+        },
+        {
+            "user": "William",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }
