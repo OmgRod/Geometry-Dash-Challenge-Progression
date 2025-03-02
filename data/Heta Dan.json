@@ -12,6 +12,12 @@
             "user": "ImFeelingGreen",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "NatNat",
+            "video": "https://www.youtube.com/watch?v=XzMnRRzUHbs",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }
