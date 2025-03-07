@@ -1,26 +1,21 @@
 [
     {
         "role": "owner",
+        "name": "NatNat",
+        "link": "https://www.youtube.com/@NatNatNJG"
+    },
+    {
+        "role": "admin",
+        "name": "Runaia"
+    },
+    {
+        "role": "admin",
         "name": "SadCraft0o",
         "link": "https://www.youtube.com/@sadcraft0o"
     },
     {
         "role": "admin",
-        "name": "Runaia"
-
-    },
-    {
-        "role": "admin",
         "name": "FrostyToes"
-
-    },
-    {
-        "role": "helper",
-        "name": "Mewo"
-    },
-    {
-        "role": "helper",
-        "name": "NatNat"
     },
     {
         "role": "helper",
@@ -35,7 +30,7 @@
         "name": "Tsa"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "DragonDude"
     },
     {
