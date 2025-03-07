@@ -34,6 +34,10 @@
         "name": "DragonDude"
     },
     {
+        "role": "helper",
+        "name": "AgathX"
+    },
+    {
         "role": "dev",
         "name": "Deceptive"
     }
