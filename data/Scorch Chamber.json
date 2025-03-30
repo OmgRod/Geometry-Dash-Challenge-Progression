@@ -13,6 +13,11 @@
             "hz": 480,
             "percent": 100,
             "video" : "https://youtu.be/TQxmb0B15_I"
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": 360,
+            "percent": 100
         }
     ]
 }       
